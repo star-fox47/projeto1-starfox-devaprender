@@ -1,1 +1,5 @@
-Olá meu nome é Ericson e estou aprendendo programação a 1 ano e meio
+Olá meu nome é Ericson e estou aprendendo programação a 1 ano e meio, sinceramente eu estava meio perdido sobra oque 
+estudar mas pesquisando por vagas descobri pelomenos oque escolher porque meu deus são tantas vagas de 
+tipos de linguagem diferente, eu sempre ouvia falar dos mesmos frameworks até descobrir uma vaga que pedia 
+Flutter Java React abriu uma certa curiosidade sobre esse Flutter então pesquisei na documentação dele 
+e vou te dizer que documentação 10, tem muito conteudo do basico ao avançado eu subestimava muito documentações.
